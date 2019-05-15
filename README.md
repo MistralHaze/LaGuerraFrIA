@@ -1,0 +1,2 @@
+# LaGuerraFrIA
+Aliens Project is a turn-based strategy game developed for college using Unity3D. It’s about a cold war in space involving Aliens, USA and URSS. In the project we had to implement usual AI techniques used in strategy games. My job in the game was to make part of the map, pathfinding, the enemy generator and implementing two layers of the AI which I’ll explain later. I developed the project with Raúl Cuadrado, José M. Pizana, Néstor L. Zapata, Andoni Pinilla and Diego Maciá.
